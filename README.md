@@ -12,6 +12,8 @@ An automated input record-and-replay system for Unreal Engine
 - [Blueprint Interface](#Blueprint-Interface)
 - [Code Interface](#Code-Interface)
 
+[Demo](#Demo)
+
 [FAQ](#FAQ)
 <br>[Development](#Development)
 
@@ -55,6 +57,9 @@ Both the input recorder and input replayer subsystems can be accessed in any Blu
 
 #### Code Interface
 You can access the same BP functions mentioned above through code. Additional functionality for the input serializer library is also accessible in code.
+
+### Demo
+You can watch a demo of the plugin in use here: https://www.saljuk.com/code/AutoReplay
 
 ### FAQ
 
