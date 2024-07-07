@@ -70,6 +70,6 @@ You can access the same BP functions mentioned above through code. Additional fu
 ### Development
 This plugin was developed by me (Saljuk Gondal) as part of my own suite of personal tools and projects (JukiTech). It's being hosted on a standard MIT License and is available for anyone's use under MIT license rules, completely free of charge (citations/creditations are always welcome and appreciated!). This plugin is provided as is without any warranty.
 
-For any feature requests or changes to the plugin, please reach out at saljukgondal@gmail.com.
+For any feature requests or changes to the plugin, please reach out at saljukgondal@gmail.com. Issues/pull requests also welcome.
 
 For more about me, visit https://saljuk.com
